@@ -69,13 +69,3 @@ The **Credit Card Fraud Detection System** provides a robust solution to mitigat
 ## 🤝 Contributions
 Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests to improve the project.
 
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📢 Acknowledgements
-- Dataset provided by [Kaggle](https://www.kaggle.com/).
-- Inspired by real-world challenges in fraud detection and analytics.
